@@ -1,0 +1,1 @@
+curl -H "X-JavaScript-User-Agent: www.googleapis.com" "https://www.googleapis.com/youtube/v3/playlists?part=id,snippet,status&channelId=UCfy_YNMOpOQyXnu7C_qtPMA&maxResults=50&key=AIzaSyDrVuKpzAesWaxmtPvrh_gvhm-035y2aWc"
