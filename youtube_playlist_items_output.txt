@@ -1,21 +1,6 @@
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:41 GMT
-Date: Sat, 20 Jan 2018 05:58:41 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/7r2-nvAc_nZgurz1DFxAI0yg3BA"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 56407
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/7r2-nvAc_nZgurz1DFxAI0yg3BA\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/Qvt57eQAyUGnSCJIQQWnbp_KfMs\"",
  "nextPageToken": "CBkQAA",
  "pageInfo": {
   "totalResults": 32,
@@ -1249,24 +1234,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:42 GMT
-Date: Sat, 20 Jan 2018 05:58:42 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/rzAQk_0reUKZv4VRP0OxTxSVS-E"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 12295
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/rzAQk_0reUKZv4VRP0OxTxSVS-E\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/EcS0fXqGTZwBgrsSpWOCd0WaU9A\"",
  "pageInfo": {
   "totalResults": 8,
   "resultsPerPage": 25
@@ -1641,24 +1611,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:42 GMT
-Date: Sat, 20 Jan 2018 05:58:42 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/Lg7Qm2_JTQUAmQllDR-BiIsxbzM"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 20948
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/Lg7Qm2_JTQUAmQllDR-BiIsxbzM\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/zIp-7m17xt9z_eCcw8tWcszunrQ\"",
  "pageInfo": {
   "totalResults": 25,
   "resultsPerPage": 25
@@ -2353,24 +2308,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:43 GMT
-Date: Sat, 20 Jan 2018 05:58:43 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/9P8igFZ8xPIwO9QMEYxOjstmGaI"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 14818
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/9P8igFZ8xPIwO9QMEYxOjstmGaI\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/D7iWeQWJQPgphZDtw_LW8-YzkIo\"",
  "pageInfo": {
   "totalResults": 10,
   "resultsPerPage": 25
@@ -2818,24 +2758,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:43 GMT
-Date: Sat, 20 Jan 2018 05:58:43 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/Gcgd6gaa4xfN6Zt2Kroo6e3xk58"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 5714
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/Gcgd6gaa4xfN6Zt2Kroo6e3xk58\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/mCNmbmJrs_y6X_SZOsVosg9KWdk\"",
  "pageInfo": {
   "totalResults": 4,
   "resultsPerPage": 25
@@ -3014,24 +2939,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:43 GMT
-Date: Sat, 20 Jan 2018 05:58:43 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/hbMY6A6Oe_bKjbhYQNN4auJ-27o"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 13215
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/hbMY6A6Oe_bKjbhYQNN4auJ-27o\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/y3jzT13EaDvvw_suxH0o_bL5IiE\"",
  "pageInfo": {
   "totalResults": 9,
   "resultsPerPage": 25
@@ -3420,21 +3330,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:44 GMT
-Date: Sat, 20 Jan 2018 05:58:44 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/5FylCAqQK-O0FdAVFF1recu9pAg"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 2177
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/5FylCAqQK-O0FdAVFF1recu9pAg\"",
@@ -3510,24 +3405,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:44 GMT
-Date: Sat, 20 Jan 2018 05:58:44 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/ZQxdfwAPNxkHZJpD68offJv70Fg"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 2482
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/ZQxdfwAPNxkHZJpD68offJv70Fg\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/9gpAxfrvq88fgGhCnUXLz1OVaOI\"",
  "pageInfo": {
   "totalResults": 2,
   "resultsPerPage": 25
@@ -3613,24 +3493,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:45 GMT
-Date: Sat, 20 Jan 2018 05:58:45 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/6SRo8TLD2BQBLx_xwNU5RvhapK8"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 39413
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/6SRo8TLD2BQBLx_xwNU5RvhapK8\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/-4dkZEBOhzorVhzL3-NPVX6UOW8\"",
  "pageInfo": {
   "totalResults": 23,
   "resultsPerPage": 25
@@ -4589,24 +4454,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:45 GMT
-Date: Sat, 20 Jan 2018 05:58:45 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/ceFq-qBbOz8YRiuJK25LP6oDBK4"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 3374
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/ceFq-qBbOz8YRiuJK25LP6oDBK4\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/_Dt31kQiR_omNgj1WSkRhHym5bc\"",
  "pageInfo": {
   "totalResults": 2,
   "resultsPerPage": 25
@@ -4692,24 +4542,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:46 GMT
-Date: Sat, 20 Jan 2018 05:58:46 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/ByWZg_aamTZwdo9FaQWGClpMLNg"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 7080
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/ByWZg_aamTZwdo9FaQWGClpMLNg\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/zTTk5M4TezbaIuJPt78H6fC5BHE\"",
  "pageInfo": {
   "totalResults": 6,
   "resultsPerPage": 25
@@ -4933,21 +4768,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:46 GMT
-Date: Sat, 20 Jan 2018 05:58:46 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/pQ7UFwwWX2dOmfhpMhVJyrg8pr4"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 197
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/pQ7UFwwWX2dOmfhpMhVJyrg8pr4\"",
@@ -4957,21 +4777,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
  },
  "items": []
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:47 GMT
-Date: Sat, 20 Jan 2018 05:58:47 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/oDreH5ZUrb2FudYaia3mDmqqlaY"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 5766
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/oDreH5ZUrb2FudYaia3mDmqqlaY\"",
@@ -5169,21 +4974,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:47 GMT
-Date: Sat, 20 Jan 2018 05:58:47 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/WuTqnvzDuhqGSSPAhx_OY0Oqv5g"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 3119
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/WuTqnvzDuhqGSSPAhx_OY0Oqv5g\"",
@@ -5277,24 +5067,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:48 GMT
-Date: Sat, 20 Jan 2018 05:58:48 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/AN1zoKY4bWk3SXc1wTDA8tlIVPI"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 4356
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/AN1zoKY4bWk3SXc1wTDA8tlIVPI\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/Beg3VRtOx5raKf-YrosrVZSJ5EU\"",
  "pageInfo": {
   "totalResults": 3,
   "resultsPerPage": 25
@@ -5424,24 +5199,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:48 GMT
-Date: Sat, 20 Jan 2018 05:58:48 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/zhJwIbM1iYQBFXgzYsdS4EhAed4"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 14919
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/zhJwIbM1iYQBFXgzYsdS4EhAed4\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/IxPWUwC7rfIp20jW7EoPFi3ePAg\"",
  "pageInfo": {
   "totalResults": 9,
   "resultsPerPage": 25
@@ -5822,24 +5582,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:48 GMT
-Date: Sat, 20 Jan 2018 05:58:48 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/sHxfVlCRytY6MmoJGlUCCFtnVxg"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 10015
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/sHxfVlCRytY6MmoJGlUCCFtnVxg\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/a0dP-norMCPTpwRCqUu8AIxu4SA\"",
  "pageInfo": {
   "totalResults": 5,
   "resultsPerPage": 25
@@ -6062,24 +5807,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:49 GMT
-Date: Sat, 20 Jan 2018 05:58:49 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/ieBgvoAEIPyHffiI9rix1fmyJ8A"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8769
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/ieBgvoAEIPyHffiI9rix1fmyJ8A\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/SA5N5rfWqK57ZS8myyX4C0LKtHA\"",
  "pageInfo": {
   "totalResults": 7,
   "resultsPerPage": 25
@@ -6348,21 +6078,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:49 GMT
-Date: Sat, 20 Jan 2018 05:58:49 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/pQ7UFwwWX2dOmfhpMhVJyrg8pr4"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 197
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/pQ7UFwwWX2dOmfhpMhVJyrg8pr4\"",
@@ -6372,24 +6087,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
  },
  "items": []
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:50 GMT
-Date: Sat, 20 Jan 2018 05:58:50 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/vwi1wRCMmpiFq9CLkSFIHNbNvaY"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 13443
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/vwi1wRCMmpiFq9CLkSFIHNbNvaY\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/U08CSXmo0Ktmx4zJIlsB6blouQo\"",
  "pageInfo": {
   "totalResults": 10,
   "resultsPerPage": 25
@@ -6817,24 +6517,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:50 GMT
-Date: Sat, 20 Jan 2018 05:58:50 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/iqzwi3ffKutuNiyizEYl5GJY1kI"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 10747
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/iqzwi3ffKutuNiyizEYl5GJY1kI\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/-zjeyzx0jX8lXSGWxLQNaeeW5E0\"",
  "pageInfo": {
   "totalResults": 8,
   "resultsPerPage": 25
@@ -7164,21 +6849,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:51 GMT
-Date: Sat, 20 Jan 2018 05:58:51 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/5VlOwemkxnrIZib5X47T-w4k0gE"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1292
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/5VlOwemkxnrIZib5X47T-w4k0gE\"",
@@ -7228,21 +6898,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:51 GMT
-Date: Sat, 20 Jan 2018 05:58:51 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/88-Y_ZlafhzeJp3jzCaDRJ3Y9ag"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1290
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/88-Y_ZlafhzeJp3jzCaDRJ3Y9ag\"",
@@ -7292,21 +6947,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:51 GMT
-Date: Sat, 20 Jan 2018 05:58:51 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/s0h_WhKMt19fR9Ss6JJQea1adwQ"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1291
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/s0h_WhKMt19fR9Ss6JJQea1adwQ\"",
@@ -7356,21 +6996,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:52 GMT
-Date: Sat, 20 Jan 2018 05:58:52 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/VVUQ5metAMDCfz7-jWpaaKaZ51A"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1288
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/VVUQ5metAMDCfz7-jWpaaKaZ51A\"",
@@ -7420,21 +7045,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:52 GMT
-Date: Sat, 20 Jan 2018 05:58:52 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/ufaGTNUjm-3eGxn27yxc73pFIMQ"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1292
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/ufaGTNUjm-3eGxn27yxc73pFIMQ\"",
@@ -7484,24 +7094,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:53 GMT
-Date: Sat, 20 Jan 2018 05:58:53 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/TrJhyudoV7ipUuGbVZfkad5JFfI"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8933
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/TrJhyudoV7ipUuGbVZfkad5JFfI\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/xEW2c322ob1jpHDlkx-KQu1QpXg\"",
  "pageInfo": {
   "totalResults": 8,
   "resultsPerPage": 25
@@ -7821,24 +7416,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:53 GMT
-Date: Sat, 20 Jan 2018 05:58:53 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/XeP3RltAwlsuhl4wtFPu__QiEb0"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8935
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/XeP3RltAwlsuhl4wtFPu__QiEb0\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/pUA-ifnkpGf_gjfcboCkA2Kdvsk\"",
  "pageInfo": {
   "totalResults": 8,
   "resultsPerPage": 25
@@ -8158,21 +7738,6 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:53 GMT
-Date: Sat, 20 Jan 2018 05:58:53 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/hliygOZ3Y2gEd4HG2VgWuIqAmRo"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 1288
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
  "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/hliygOZ3Y2gEd4HG2VgWuIqAmRo\"",
@@ -8222,24 +7787,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:54 GMT
-Date: Sat, 20 Jan 2018 05:58:54 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/3FyyZE52LCZViEDaI0DPJWyUB2U"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 3632
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/3FyyZE52LCZViEDaI0DPJWyUB2U\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/hD9_6IOl792XnPCdc7y7D0qhp-g\"",
  "pageInfo": {
   "totalResults": 3,
   "resultsPerPage": 25
@@ -8364,24 +7914,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:54 GMT
-Date: Sat, 20 Jan 2018 05:58:54 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/vZfdy_ifIo7lXr-v7-x6BR2Wlww"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 12309
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/vZfdy_ifIo7lXr-v7-x6BR2Wlww\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/qqrx67aqj1ageSmLoC49FMfB8zQ\"",
  "pageInfo": {
   "totalResults": 11,
   "resultsPerPage": 25
@@ -8818,24 +8353,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:55 GMT
-Date: Sat, 20 Jan 2018 05:58:55 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/6Q1dRg6EKZDeS-39Wx8JFWGK918"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 27621
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/6Q1dRg6EKZDeS-39Wx8JFWGK918\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/7UmHKtTOz_dhgB_tKJqRNb04Kxk\"",
  "nextPageToken": "CBkQAA",
  "pageInfo": {
   "totalResults": 29,
@@ -9819,24 +9339,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:55 GMT
-Date: Sat, 20 Jan 2018 05:58:55 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/b6UOx83p4XmZQOCcq3VLIvceSiY"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8445
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/b6UOx83p4XmZQOCcq3VLIvceSiY\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/7XHy35eR2TtZ3HdDcyrjx4Y0EfQ\"",
  "pageInfo": {
   "totalResults": 6,
   "resultsPerPage": 25
@@ -10083,24 +9588,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:56 GMT
-Date: Sat, 20 Jan 2018 05:58:56 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/e7QbEC4ht_X-9341tIHVHu9w-Vs"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8932
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/e7QbEC4ht_X-9341tIHVHu9w-Vs\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/xHgd7QflcoZbnIStovqJEUy--uo\"",
  "pageInfo": {
   "totalResults": 7,
   "resultsPerPage": 25
@@ -10373,24 +9863,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:56 GMT
-Date: Sat, 20 Jan 2018 05:58:56 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/jOlfezyW6yq5MxkBS4TzTxREru4"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 8075
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/jOlfezyW6yq5MxkBS4TzTxREru4\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/8iu5EQyQgW0irXKf7I3TtSzHXco\"",
  "pageInfo": {
   "totalResults": 7,
   "resultsPerPage": 25
@@ -10622,24 +10097,9 @@ Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; qui
   }
  ]
 }
-HTTP/1.1 200 OK
-Expires: Sat, 20 Jan 2018 05:58:57 GMT
-Date: Sat, 20 Jan 2018 05:58:57 GMT
-Cache-Control: private, max-age=0, must-revalidate, no-transform
-ETag: "g7k5f8kvn67Bsl8L-Bum53neIr4/19THYUVb9xSsuBeio4fpGvjtryk"
-Vary: Origin
-Vary: X-Origin
-Content-Type: application/json; charset=UTF-8
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
-X-XSS-Protection: 1; mode=block
-Content-Length: 5067
-Server: GSE
-Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
-
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/19THYUVb9xSsuBeio4fpGvjtryk\"",
+ "etag": "\"g7k5f8kvn67Bsl8L-Bum53neIr4/PlAv_I--E9kk8Mzqy3tnp7G9-vk\"",
  "pageInfo": {
   "totalResults": 3,
   "resultsPerPage": 25
