@@ -7,5 +7,5 @@
 #
 # REFERENCE
 # 	https://developers.google.com/youtube/v3/docs/playlists/list#try-it
-curl -H "X-JavaScript-User-Agent: www.googleapis.com" \
+curl --insecure -H "X-JavaScript-User-Agent: www.googleapis.com" \
 	"https://www.googleapis.com/youtube/v3/playlists?part=id,snippet,status&channelId=UCfy_YNMOpOQyXnu7C_qtPMA&maxResults=50&key=AIzaSyDrVuKpzAesWaxmtPvrh_gvhm-035y2aWc"
