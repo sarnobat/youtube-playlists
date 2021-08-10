@@ -10,4 +10,4 @@
 
 # This is easy since it only uses public data. Trying to use the GMail API is a lot of work.
 curl --insecure -H "X-JavaScript-User-Agent: www.googleapis.com" \
-	"https://www.googleapis.com/youtube/v3/playlists?part=id,snippet,status&channelId=UCfy_YNMOpOQyXnu7C_qtPMA&maxResults=50&key=AIzaSyArlNxg2JBTz0EqanUb4xKahR6hFcHY034"
+	"https://www.googleapis.com/youtube/v3/playlists?part=id,snippet,status&channelId=UCfy_YNMOpOQyXnu7C_qtPMA&maxResults=50&key=<DO NOT SOURCE CONTROL>"
